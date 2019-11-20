@@ -1,4 +1,4 @@
-### 1. [概率统计中常见概念总结](./math_notes/README.md)
+zd### 1. [概率统计中常见概念总结](./math_notes/README.md)
 
 * 总体均值、总体方差
 
